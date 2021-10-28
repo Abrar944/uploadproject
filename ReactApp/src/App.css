@@ -1,0 +1,11 @@
+
+
+body{
+ background-color: rgb(13, 15, 15);
+ background-repeat: no-repeat;  
+ color: aliceblue;
+}
+.form-control{
+    background-color: rgba(41, 241, 181, 0.918);
+    color: rgb(40, 41, 42);
+}
